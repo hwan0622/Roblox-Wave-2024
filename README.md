@@ -27,7 +27,7 @@
     Load Script: Click on the "Load Script" button and select the script you want to inject.
     Inject Script: Click on the "Inject" button to run the script in your Roblox game.
 
-# Wave roblox-script roblox-executor Wave-roblox roblox-Wave Wave-executor Wave-external-download Wave-discord Wave-v2-download Wave-key Wave-update Wave-crash Wave-roblox-executor Wave-v2 Wave-roblox-download roblox-Wave-free roblox-Wave-key roblox-Wave-executor Wave-executer
+#### Wave roblox-script roblox-executor Wave-roblox roblox-Wave Wave-executor Wave-external-download Wave-discord Wave-v2-download Wave-key Wave-update Wave-crash Wave-roblox-executor Wave-v2 Wave-roblox-download roblox-Wave-free roblox-Wave-key roblox-Wave-executor Wave-executer
 Wave Roblox Script Executor: Your Ultimate Tool for Roblox
 
 ####  Discover the power of Wave, the premier Roblox script executor, designed to elevate your gaming experience. Whether you're a seasoned scripter or a newcomer, Wave offers a robust, user-friendly platform for executing Roblox scripts with ease.
